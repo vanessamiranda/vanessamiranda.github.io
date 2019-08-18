@@ -86,10 +86,10 @@ analytics:
 author:
   name             : "Vanessa Miranda"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science "Portfolio
+  bio              : "Data Science Portfolio"
   location         : "KL, Malaysia"
   email            : "vanessamiranda0@gmail.com"
-  uri              :  
+  uri              :  "https://public.tableau.com/profile/vanessa.miranda"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
