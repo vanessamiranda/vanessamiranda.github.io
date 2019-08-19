@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Predicting Customer Churn"
-date: 2019-08-19
-tags: [data science, machine learning, customer churn case, markup]
-header:
-  image: "/images/DV3.jpg"
-excerpt: " Machine Learning: Predicting Customer Churn, Data mathjax: "true"
-author_profile: true
+title: "A Trip"
+category: [blog, travel]
+tags: [hot, summer]
 
 ---
 
@@ -17,3 +13,7 @@ author_profile: true
 Phython code block:
 '''phython
 
+header:
+  image: "/images/DV3.jpg"
+excerpt: " Machine Learning: Predicting Customer Churn, Data" mathjax: "true"
+author_profile: true
