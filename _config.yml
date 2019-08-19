@@ -89,7 +89,7 @@ author:
   bio              : "Data Science Portfolio"
   location         : "KL, Malaysia"
   email            : "vanessamiranda0@gmail.com"
-  uri              :  "https://public.tableau.com/profile/vanessa.miranda"
+  tableau          :  "https://public.tableau.com/profile/vanessa.miranda"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
