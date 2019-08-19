@@ -4,11 +4,9 @@ title: "Data Visualisation"
 permalink: /dataviz/
 author_profile: true
 header:
-   image: "/images/V3.JPG"
+   image: "/images/V4.JPG"
 ---
 
-*"When you have mastered numbers, you will in fact no longer be reading numbers, any more than you read words when reading books. You will be reading its meanings." ~ W. E. B. Du Bois*
- 
 I design visualisation to make data interactive, understandable and pretty too :) Take a glimpse of all projects I've been working on my [Tableau Public profile](https://public.tableau.com/profile/vanessa.miranda)
 
 ---
