@@ -11,25 +11,18 @@ I'm Vanessa, a +9 years experienced digital media / eCommerce specialist with +4
 
 I am skilled in key data-science steps: data pre-processing, application of statistical modeling, data visualization and results communication. 
 
-I am certified in [LEAD's Data Science 360 program](https://drive.google.com/file/d/1vampVS6D48Lu1LdUm8_HOpgf3swUv8N-/view) and [IBM's Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/95MKH4XSL2XA), a 9 course specialising in Data Science and Machine Learning. I am currently pursing my MicroMasters in *Statistics and Data Science*, a credential program with Massachusetts Institute of Technology (MIT).
+I am certified by [LEAD's Data Science 360 program](https://drive.google.com/file/d/1vampVS6D48Lu1LdUm8_HOpgf3swUv8N-/view) and [IBM's Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/95MKH4XSL2XA), a 9 course specialising in Data Science and Machine Learning. I am currently pursing my MicroMasters in *Statistics and Data Science*, a credential program with Massachusetts Institute of Technology (MIT).
 
 Have fun browsing through my data science portfolio and thanks for visiting!
 
-[LinkedIn](http://www.linkedin.com/in/vanessamiranda)|[Github](https://github.com/vanessamiranda)|[Tableau](https://public.tableau.com/profile/vanessa.miranda)
+[LinkedIn](http://www.linkedin.com/in/vanessamiranda)
+
+[Github](https://github.com/vanessamiranda)
+
+[Tableau](https://public.tableau.com/profile/vanessa.miranda)
 
 
  
 
 
 ---
-
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
