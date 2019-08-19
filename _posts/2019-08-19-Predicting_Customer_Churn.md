@@ -1,5 +1,4 @@
 ---
-layout:archive-taxonomy
 title: Predicting Customer Churn
 category: [blog, Data Science]
 tags: [machine learning]
