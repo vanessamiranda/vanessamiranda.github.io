@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Predicting Customer Churn"
-date:2019-08-19
 category: [blog, Data Science]
 tags: [machine learning]
-excerpt: Building a model to predict whether a customer will churn.
  
 ---
+
+header:
+   image: "/images/ML3.jpeg"
+
+   
 #H1 Building a model to predict whether a customer will churn
 
 ##H2 Business Problem
