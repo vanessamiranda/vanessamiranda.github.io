@@ -1,12 +1,12 @@
 ---
-layout: archive
+layout:archive-taxonomy
 title: Predicting Customer Churn
 category: [blog, Data Science]
 tags: [machine learning]
 author_profile: true 
 ---
 
-Building a model to predict whether a customer will churn is important to a business. 
+Building a model to predict whether a customer will churn, is important to a business. 
 
  Churn is one of the largest problems faced by most businesses. It costs between 5 times and 25 times as much to find a new customer than to retain an existing one. 
 
