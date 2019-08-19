@@ -7,7 +7,7 @@ header:
    image: "/images/KL.jpg"
 ---
 
-I'm Vanessa, a +9 years experienced digital media / eCommerce specialist with +4 years proven track record in the data analytics domain in organisations such as Microsoft, Hewlett-Packard (HP) and AirAsia. Turning data into insights and, turning insights into value; has always been my passion. 
+I'm Vanessa, a +9 years experienced digital media / eCommerce specialist with +4 years proven track record in the data analytics domain in organisations such as Microsoft, Hewlett-Packard (HP), AirAsia and Group M. Turning data into insights and, turning insights into value; has always been my passion. 
 
 I am skilled in key data-science steps: data pre-processing, application of statistical modeling, data visualization and results communication. 
 
@@ -16,3 +16,9 @@ I am certified in [LEAD's Data Science 360 program](https://drive.google.com/fil
 Have fun browsing through my data science portfolio and thanks for visiting!
 
 [LinkedIn](http://www.linkedin.com/in/vanessamiranda)|[Github](https://github.com/vanessamiranda)|[Tableau](https://public.tableau.com/profile/vanessa.miranda)
+
+
+ 
+
+
+---
