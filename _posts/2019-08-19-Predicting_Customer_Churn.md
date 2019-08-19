@@ -1,5 +1,5 @@
 ---
-layout: archieve
+layout: post
 title: "Predicting Customer Churn"
 date:2019-08-19
 category: [blog, Data Science]
