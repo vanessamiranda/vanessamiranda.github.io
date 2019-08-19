@@ -12,6 +12,4 @@ Building a model to predict whether a customer will churn, is important to a bus
 
  For the purposes of this report,
 
-1. Real world telco dataset from IBM was utilised [Telecom Churn Dataset](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)
-2. Objective: Build a model to predict whether a customer will churn
-
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1140px" height="36768.4px" scrolling="no" src="/_pages/2019-08-19-Predicting_Customer_Churn.html"></iframe>
