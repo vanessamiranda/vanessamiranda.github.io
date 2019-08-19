@@ -257,6 +257,14 @@
         </li>
       {% endif %}
 
+      {% if author.tableau %}
+      <li>
+        <a href="{{ author.tableau }}" itemprop="sameAs">
+          <img src="/images/tableau.png" alt="tableau icon" style="width: 1.25em;"> Tableau
+        </a>
+      </li>
+    {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
