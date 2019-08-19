@@ -4,7 +4,7 @@ title: "Data Visualisation"
 permalink: /dataviz/
 author_profile: true
 header:
-   image: "/images/V4.JPG"
+   image: "/images/V4.jpg"
 ---
 
 I design visualisation to make data interactive, understandable and pretty too :) Take a glimpse of all projects I've been working on my [Tableau Public profile](https://public.tableau.com/profile/vanessa.miranda)
