@@ -3,7 +3,7 @@ layout: archive-taxonomy
 title: Predicting Customer Churn
 category: [blog, Data Science]
 tags: [machine learning]
- 
+author_profile: true 
 ---
 
 Building a model to predict whether a customer will churn is important to a business. 
