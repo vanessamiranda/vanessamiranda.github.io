@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /machine/
-  - title: "Data Visualisation"
+  - title: "Data Visualization"
     url: /dataviz/
   #- #title: "Sample Collections"
   #   url: /collection-archive/
