@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Machine Learning"
-permalink: /machine/
+title: "Data Visualisation"
+permalink: /dataviz/
 author_profile: true
 header:
    image: "/images/V4.jpg"
