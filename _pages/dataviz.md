@@ -7,12 +7,12 @@ header:
    image: "/images/V4.jpg"
 ---
 
-I design visualisation to make data interactive, understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](https://tabsoft.co/2KY4fto).
+I design visualisation to make data interactive, understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](http://bit.ly/2KY4ftohome).
 
 
 **Startup Quadrant Dashboard for Executive Investors**
 ![image-center](/images/V2.JPG){: .align-center}
- [View INTERACTIVE vision](https://tabsoft.co/30qbW2g)
+ [View INTERACTIVE vision](https://tabsoft.co/30qbW2g){: .text-center}
  
 
 **Profit Margin Analysis**
