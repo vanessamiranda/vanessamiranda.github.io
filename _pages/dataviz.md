@@ -10,6 +10,10 @@ header:
 I design visualisation to make complex data interactive and more understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](http://bit.ly/2KY4ftohome).
 
 
+**Probability Analysis of Excessive Absenteeism from Work**
+![image-center](/images/employee_absenteeism/absence.JPG){: .align-center}
+ [View INTERACTIVE vision](https://tabsoft.co/2KLfYMW){: .text-center}
+
 **Startup Quadrant Dashboard for Executive Investors**
 ![image-center](/images/V2.JPG){: .align-center}
  [View INTERACTIVE vision](https://tabsoft.co/30qbW2g){: .text-center}

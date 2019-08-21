@@ -1,5 +1,5 @@
 ---
-title: Predicting Absenteeism and its impact on Productivity  
+title: Probability Analysis of  Excessive Absenteeism from Work 
 category: [blog, Data Science]
 tags: [machine learning]
 author_profile: true 
