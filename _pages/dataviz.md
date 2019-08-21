@@ -7,7 +7,7 @@ header:
    image: "/images/V4.jpg"
 ---
 
-I design visualisation to make data interactive, understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](http://bit.ly/2KY4ftohome).
+I design visualisation to make complex data interactive, more understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](http://bit.ly/2KY4ftohome).
 
 
 **Startup Quadrant Dashboard for Executive Investors**

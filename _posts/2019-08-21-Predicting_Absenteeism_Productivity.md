@@ -1,7 +1,7 @@
 ---
-title: Predicting Absenteeism impacting Productivity Level
+title: Predicting Absenteeism and its impact on Productivity Level
 category: [blog, Data Science]
-tags: [machine learning]
+tags: [machine learning, absenteeism]
 author_profile: true 
 ---
 
