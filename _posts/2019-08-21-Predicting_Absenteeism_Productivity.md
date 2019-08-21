@@ -13,7 +13,7 @@ In this project is to help predict absenteeism at Company X during work time. Th
 
 * Phase 2: Predictive Modeling
 
- * Phase 3: [Visualizing Predictive Models](https://vanessamiranda.github.io/dataviz/) or [click here]() to view the interactive version
+ * Phase 3: [Visualizing Predictive Models](https://vanessamiranda.github.io/dataviz/) or [click here](https://tabsoft.co/2KLfYMW) to view the interactive version
 
  To view more of my data science projects, head to my [Github](http://bit.ly/2HfYIh0)
 
