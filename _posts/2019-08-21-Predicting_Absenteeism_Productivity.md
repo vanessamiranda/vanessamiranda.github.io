@@ -1,5 +1,5 @@
 ---
-title: Predicting Absenteeism and its impact on Productivity Level
+title: Predicting Absenteeism and its impact on Productivity  
 category: [blog, Data Science]
 tags: [machine learning]
 author_profile: true 
@@ -13,9 +13,11 @@ In this project is to help predict absenteeism at Company X during work time. Th
 
 * Phase 2: Predictive Modeling
 
- * Phase 3: Visualising Predictive
+ * Phase 3: [Visualizing Predictive Models](https://vanessamiranda.github.io/dataviz/) or [click here]() to view the interactive version
 
- 
+ To view more of my data science projects, head to my [Github](http://bit.ly/2HfYIh0)
+
+
  ![image-center](/images/employee_absenteeism/employee_absenteeismv2.jpg){: .align-center}
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1140px" height="36768.4px" scrolling="no" src="/_pages/Absenteeism-Productivity-Predictive%20Modeling.html"></iframe>
