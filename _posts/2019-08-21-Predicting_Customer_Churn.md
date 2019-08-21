@@ -1,7 +1,7 @@
 ---
 title: Predicting Customer Churn
 category: [blog, Data Science]
-tags: [machine learning, customer churn]
+tags: [machine learning]
 author_profile: true 
 ---
 
