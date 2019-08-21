@@ -15,11 +15,11 @@ I'm certified by [LEAD's Data Science 360 program](https://drive.google.com/file
 
 Have fun browsing through my data science portfolio and thanks for visiting. Feel free to reach out for collaboration!
 
-[Github](https://github.com/vanessamiranda)
+[Github](http://bit.ly/2HfYIh0)
 
-[Tableau](https://public.tableau.com/profile/vanessa.miranda)
+[Tableau](http://bit.ly/2KY4ftohome)
 
-[LinkedIn](http://www.linkedin.com/in/vanessamiranda)
+[LinkedIn](http://bit.ly/2KJr8Su)
 
 
  

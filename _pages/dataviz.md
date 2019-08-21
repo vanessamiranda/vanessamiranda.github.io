@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "Data Visualisation"
+title: "Data Visualization"
 permalink: /dataviz/
 author_profile: true
 header:
    image: "/images/V4.jpg"
 ---
 
-I design visualisation to make data interactive, understandable and beautiful.Take a glimpse of some projects I've been working on my [Tableau Public profile](https://public.tableau.com/profile/vanessa.miranda)
+I design visualisation to make data interactive, understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](https://tabsoft.co/2KY4fto).
 
 
 **Startup Quadrant Dashboard for Executive Investors**
 ![image-center](/images/V2.JPG){: .align-center}
- [View INTERACTIVE vision](https://public.tableau.com/profile/vanessa.miranda#!/vizhome/StartupQuadrantDashboardforExecutiveInvestorsInteractive/TheStartupQuadrant)
+ [View INTERACTIVE vision](https://tabsoft.co/30qbW2g)
  
 
 **Profit Margin Analysis**
 ![image-center](/images/V5.jpg){: .align-center}
- [View INTERACTIVE vision](https://public.tableau.com/profile/vanessa.miranda#!/vizhome/InteractiveMap_15655995119020/Dashboard1)
+ [View INTERACTIVE vision](https://tabsoft.co/2HfQR2R)
