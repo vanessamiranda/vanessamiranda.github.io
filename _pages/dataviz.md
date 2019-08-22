@@ -21,4 +21,4 @@ I design visualisation to make complex data interactive, more understandable and
 
 **Profit Margin Analysis**
 ![image-center](/images/V5.jpg){: .align-center}
- [View Interactive Version]](https://tabsoft.co/2HfQR2R)
+ [View Interactive Version](https://tabsoft.co/2HfQR2R)
