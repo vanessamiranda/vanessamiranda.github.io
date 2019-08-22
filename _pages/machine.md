@@ -4,7 +4,7 @@ title: "Machine Learning"
 permalink: /machine/
 author_profile: true
 header:
-   image: "/images/ML3.jpeg"
+   image: "/images/ML4.jpeg"
 ---
 
 Need to make predictions based on historical data? Or want to explore your data for certain patterns? Read more!

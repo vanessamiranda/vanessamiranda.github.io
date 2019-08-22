@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-   image: "/images/KL.jpg"
+   image: "/images/KL5.jpeg"
 ---
 
 I'm Vanessa, a +9 years experienced digital media / eCommerce specialist with +4 years proven track record in the data analytics domain for organisations such as Microsoft, Hewlett-Packard (HP), AirAsia and Group M. Turning data into insights and, turning insights into value; has always been my passion. 
