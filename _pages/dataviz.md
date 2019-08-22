@@ -12,13 +12,13 @@ I design visualisation to make complex data interactive, more understandable and
 
 **Explaining Absenteeism at Workplace Predicted by ML**
 ![image-center](/images/employee_absenteeism/absence.JPG){: .align-center}
- [View INTERACTIVE version](https://tabsoft.co/2KLfYMW){: .text-center}
+ [View Interactive Version](https://tabsoft.co/2KLfYMW){: .text-center}
 
 **Startup Quadrant Dashboard for Executive Investors**
 ![image-center](/images/V2.JPG){: .align-center}
- [View INTERACTIVE version](https://tabsoft.co/30qbW2g){: .text-center}
+ [View Interactive Version](https://tabsoft.co/30qbW2g){: .text-center}
  
 
 **Profit Margin Analysis**
 ![image-center](/images/V5.jpg){: .align-center}
- [View INTERACTIVE version](https://tabsoft.co/2HfQR2R)
+ [View Interactive Version]](https://tabsoft.co/2HfQR2R)
