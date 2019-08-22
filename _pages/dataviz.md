@@ -7,10 +7,10 @@ header:
    image: "/images/V4.jpg"
 ---
 
-I design visualisation to make complex data interactive and more understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](http://bit.ly/2KY4ftohome).
+I design visualisation to make complex data interactive, more understandable and beautiful. Take a glimpse of some projects I've been working on my [Tableau Public profile](http://bit.ly/2KY4ftohome).
 
 
-**Probability Analysis of Excessive Absenteeism from Work**
+**Explaining Absenteeism at Workplace Predicted by ML**
 ![image-center](/images/employee_absenteeism/absence.JPG){: .align-center}
  [View INTERACTIVE vision](https://tabsoft.co/2KLfYMW){: .text-center}
 
