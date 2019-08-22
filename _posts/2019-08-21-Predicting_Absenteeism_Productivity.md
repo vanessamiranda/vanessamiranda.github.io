@@ -9,17 +9,21 @@ While employers expect employees to miss a certain number of workdays each year,
 
 In this project is to help predict absenteeism at Company X during work time. The project is broken up into 3 phases:
 
-* Phase 1: [Data Pre-processing and Exploratory Analysis](https://vanessamiranda.github.io/_pages/2019-08-21-Predicting_Absenteeism_Productivity.html)
+* Phase 1: [Data Pre-processing and Exploratory Analysis](https://vanessamiranda.github.io/_pages/2019-08-21-Predicting_Absenteeism_Productivity.html).
+
 Data pre-processing involves data cleaning, data
 transformation, data reduction,
 and data selection.
 
 * Phase 2: Predictive Modeling
+
 In the modeling phase there were two important things that
 was performed. The first step was data treatment by utilising
 the scikit-learn module in Python. The data was divided for training and testing, the ratio was 80% : 20% respectively. Then the second step was to apply odds ratios. Odds is the ratio of the probability that an event will occur versus the probability that the event will not occur, or probability / (1-probability).  
 
- * Phase 3: [Visualizing the Predicted Probability of the Model](https://vanessamiranda.github.io/dataviz/) or [click here](https://tabsoft.co/2KLfYMW) to view the interactive version.
+ * Phase 3: [Visualizing Predicted Probability Model](https://vanessamiranda.github.io/dataviz/) or [click here](https://tabsoft.co/2KLfYMW) to view the interactive version.
+
+ Visualizing of the predicted probability of the model.
 
  To view more of my data science projects, head to my [Github](http://bit.ly/2HfYIh0)
 
