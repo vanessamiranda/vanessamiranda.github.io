@@ -19,8 +19,7 @@ In the modeling phase there were two important things that
 was performed. The first step was data treatment by utilising
 the scikit-learn module in Python. The data was divided for training and testing, the ratio was 80% : 20% respectively. Then the second step was to apply odds ratios. Odds is the ratio of the probability that an event will occur versus the probability that the event will not occur, or probability / (1-probability).  
 
- * Phase 3: [Visualizing the Predictive Model](https://vanessamiranda.github.io/dataviz/) or [click here](https://tabsoft.co/2KLfYMW) to view the interactive version.
- Visualizing of predicted probability of a model.
+ * Phase 3: [Visualizing the Predicted Probability of the Model](https://vanessamiranda.github.io/dataviz/) or [click here](https://tabsoft.co/2KLfYMW) to view the interactive version.
 
  To view more of my data science projects, head to my [Github](http://bit.ly/2HfYIh0)
 
