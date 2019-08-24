@@ -21,7 +21,7 @@ Have fun browsing through my data science portfolio and thanks for visiting!
 
 [LinkedIn](http://bit.ly/2KJr8Su)
 
-Let’s get [in touch](mailto:vanessamiranda0@gmail.com) to see how your data can tell a story, identify product trends, better understand your customers’ behaviors or if you just want to collaborate!  
+Let’s get [in touch](mailto:vanessamiranda0@gmail.com) to see how your data can tell a story, identify product trends, better predict your costomer trends with much accurancy or if you just want to collaborate!  
 
  
 
