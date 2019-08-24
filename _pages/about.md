@@ -15,7 +15,9 @@ I'm certified by [LEAD's Data Science 360 program](https://drive.google.com/file
 
 Have fun browsing through my data science portfolio and thanks for visiting!
 
-[Github](http://bit.ly/2HfYIh0)| [Tableau](http://bit.ly/2KY4ftohome)
+[Github](http://bit.ly/2HfYIh0)
+
+[Tableau](http://bit.ly/2KY4ftohome)
 
 Let’s get [in touch](mailto:vanessamiranda0@gmail.com) to see how your data can tell a story, identify product trends, better predict your customer trends with much accurancy or if you just want to collaborate!  
 
