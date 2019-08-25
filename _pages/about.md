@@ -19,7 +19,7 @@ Have fun browsing through my data science portfolio and thanks for visiting!
 
 [Tableau](http://bit.ly/2KY4ftohome)
 
-Let’s get in touch via [email](mailto:vanessamiranda0@gmail.com) or connet via [LinkedIn](https://www.linkedin.com/in/vanessamiranda/) or [Twitter](https://twitter.com/VanessaMiranda1) to see how your data can tell a story, identify product trends, better predict your customer behaviour with much accurancy or if you just want to collaborate!  
+Let’s get in touch via [email](mailto:vanessamiranda0@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/vanessamiranda/) or [Twitter](https://twitter.com/VanessaMiranda1) to see how your data can tell a story, identify product trends, better predict your customer behaviour with much accurancy or if you just want to collaborate!  
 
  
 
