@@ -11,20 +11,26 @@ Restaurants are a notoriously difficult business to own or operate. Not only is 
 
 No single restaurant is ever going to appeal to everyone. Some people like quiet, intimate settings; others prefer boisterous ones. Some people want to bring their kids along; others want to dine alone. The preferences are as varied as the possible offerings, with specific generational cohorts preferring one thing, “people who like dogs” preferring another and everyone else liking a million other things in between.
 
-My client, a successful Indian restaurant chain in Malaysia is looking to expand operation into North America through New York (NYC). Before opening a new restaurant in NYC, the data science team will provide data and insight to:-
+My client, a successful Indian restaurant chain in Malaysia is looking to expand operation into North America through New York (NYC). 
+
+
+**Problem Statement**
+
+The objective is to locate and recommend to the client which neighbourhood in New York City will be best choice to start a restaurant.
+
+
+Before opening a new restaurant in NYC, the data science team will provide data and insight to:-
 
 * [NYC Population & Demographic characteristics](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locations.html)
 
-Data source :[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.org/wiki/New_York_City) ; [https://en.wikipedia.org/wiki/Demographics_of_New_York_City](https://en.wikipedia.org/wiki/Demographics_of_New_York_City). Web scraping techniques was used to get NYC Population density and Demographics data from Wikipedia. Preliminary finding indicates that despite the fact that Queens is the second most populous urban area in New York City (NYC), behind Brooklyn however, it is the most ethnically diverse urban area in NYC with the highest Asian ethnic minority population.
+Data source :[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.org/wiki/New_York_City) ; [https://en.wikipedia.org/wiki/Demographics_of_New_York_City](https://en.wikipedia.org/wiki/Demographics_of_New_York_City). Web scraping techniques was used to get NYC Population density and demographics data from Wikipedia. Preliminary finding indicates that despite Queens being the second most populous urban area in New York City (NYC), behind Brooklyn; it is however, the most ethnically diverse urban area in NYC with the highest Asian ethnic minority population.
 
 * Who are the competitors in that location?
 
 Data source :[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset) and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. 
+ 
 
-Problem Statement
-The objective is to locate and recommend to the client which neighbourhood in New York City will be best choice to start a restaurant.
-
- ![image-center](/images/Battle_of_Location/NYC.jpg){: .align-center}
+ ![image-center](/images/battle_of_location/NYC.jpg){: .align-center}
 
  To view more of my data science projects, head to my [Github](http://bit.ly/2HfYIh0)
 
