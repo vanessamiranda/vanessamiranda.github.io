@@ -23,9 +23,9 @@ Before opening a new restaurant in NYC, the data science team will provide data 
 
 * [NYC Population & Demographic characteristics](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locations.html)
 
-Data source :[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.org/wiki/New_York_City) ; [https://en.wikipedia.org/wiki/Demographics_of_New_York_City](https://en.wikipedia.org/wiki/Demographics_of_New_York_City). Web scraping techniques was used to get NYC Population density and demographics data from Wikipedia. Preliminary finding indicates that despite Queens being the second most populous urban area in New York City (NYC), behind Brooklyn; it is however, the most ethnically diverse urban area in NYC with the highest Asian ethnic minority population.
+Data source :[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.org/wiki/New_York_City) ; [https://en.wikipedia.org/wiki/Demographics_of_New_York_City](https://en.wikipedia.org/wiki/Demographics_of_New_York_City). Web scraping techniques was used to get NYC's population density and demographics data from Wikipedia. Preliminary finding indicates that despite Queens being the second most populous urban area in New York City (NYC), behind Brooklyn; it is however, the most ethnically diverse urban area in NYC with the highest Asian ethnic minority population.
 
-* Who are the competitors in that location?
+* Who are the competitors in that location? (*coming soon*)
 
 Data source :[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset) and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. 
  
@@ -33,5 +33,4 @@ Data source :[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset
  ![image-center](/images/battle_of_location/NYC.jpg){: .align-center}
 
  To view more of my data science projects, head to my [Github](http://bit.ly/2HfYIh0)
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1140px" height="36768.4px" scrolling="no" src="/_pages/2019-08-19-Predicting_Customer_Churn.html"></iframe>
+ 
