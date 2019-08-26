@@ -22,9 +22,9 @@ To locate and recommend to the client which neighbourhood in New York City will 
 
 Before opening a new restaurant in NYC, the data science team will provide data and insight to:-
 
-* Part 1: [NYC Population & Demographic characteristics](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locations.html)
+* Part 1: [NYC Population & Demographic characteristics](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locationsv1.html)
 
-Data source:[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.org/wiki/New_York_City) ; [https://en.wikipedia.org/wiki/Demographics_of_New_York_City](https://en.wikipedia.org/wiki/Demographics_of_New_York_City). Web scraping techniques was used to get NYC's population density and demographics data from Wikipedia. Preliminary finding indicates that Queens being the second most populous urban area in New York City (NYC), behind Brooklyn; and the most ethnically diverse urban area in NYC with the highest Asian ethnic minority population. [Click here](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locations.html) to view Python's script.
+Data source:[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.org/wiki/New_York_City) ; [https://en.wikipedia.org/wiki/Demographics_of_New_York_City](https://en.wikipedia.org/wiki/Demographics_of_New_York_City). Web scraping techniques was used to get NYC's population density and demographics data from Wikipedia. Preliminary finding indicates that Queens being the second most populous urban area in New York City (NYC), behind Brooklyn; and the most ethnically diverse urban area in NYC with the highest Asian ethnic minority population. [Click here](https://vanessamiranda.github.io/_pages/2019-08-26-Battle_of_the_Locationsv1.html) to view Python's script.
 
 * Part 2: Who are the competitors in that location? (*coming soon*)
 
@@ -35,3 +35,4 @@ Data source:[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset)
  
 ![image-center](/images/battle_of_location/NYC.jpg){: .align-center}
  
+ <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="1140px" height="36768.4px" scrolling="no" src="/_pages/2019-08-26-Battle_of_the_Locationsv2.html"></iframe>
