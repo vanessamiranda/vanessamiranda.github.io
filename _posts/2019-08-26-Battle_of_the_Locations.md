@@ -33,12 +33,15 @@ Data source:[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset)
 
  To view more of my data science projects, head to my [Github](http://bit.ly/2HfYIh0)
  
- * Recommendations
- Midtown or Tribeca in Manhattan would be the best choice to start a restaurant given that:-
+ 
+ Recommendations
+ 
+ Midtown or Tribeca in Manhattan would be the best choice to start an Indian restaurant given that:-
 
 1. it is the third most populous urban area in New York City (NYC).
 2. it has a population density of 27,826 people per square km, highest of any borough in the United States.
 3. it has the second highest Asian ethnic minority population in NYC.
+4. it has some of the top rated Indian restaurants located in that area (i.e. ready-made customer base). 
 
 ![image-center](/images/battle_of_location/NYC.jpg){: .align-center}
  
