@@ -31,7 +31,7 @@ Data source:[https://en.wikipedia.org/wiki/New_York_City](https://en.wikipedia.o
 Data source:[https://cocl.us/new_york_dataset](https://cocl.us/new_york_dataset) and Foursquare API. These dataset was used to explore various neighbourhoods and each Indian restaurants venues in the neighbourhood. 
  
 
- Recommendations
+ **Recommendations**
 
  Midtown or Tribeca in Manhattan would be the best choice to start an Indian restaurant given that:-
 
